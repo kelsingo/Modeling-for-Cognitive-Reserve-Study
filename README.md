@@ -1,7 +1,7 @@
 # Modeling-for-Cognitive-Reserve-Study
 
 Dataset structure: 
-
+```
 {
         'bold': BOLD.astype('f4'),
         
@@ -20,3 +20,4 @@ Dataset structure:
         'widths': widths
         
     }
+```
